@@ -13,3 +13,4 @@ N/A
 ## Any assumptions made during testing
 1. User wants to be able to view and download list of Client/Supplier only
 2. User wants to filter Sales Invoice data but there is no data to be displayed (empty state)
+3. User click "Clear Filter" on the table column will clear all active filter on each columns
