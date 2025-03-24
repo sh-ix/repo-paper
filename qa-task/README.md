@@ -2,10 +2,11 @@
 
 **QA Engineer Home Assignment – Paper.id**
 
-Tasks 1-3 (Test Cases, Bug Reports, SQL Queries) documentation link:<br>
+- Tasks 1-3 (Test Cases, Bug Reports, SQL Queries) documentation link:<br>
 https://docs.google.com/spreadsheets/d/1VXn1fw0KEAG37lIs1ZI4y0YuUT12euXoKvaoq6QSJ2A/edit?usp=sharing
 
-Optional tasks 4-6 could not be made due to insufficient time.
+- Optional task no. 4 has been written for test case 1 and 2
+- Optional tasks no. 5-6 could not be made due to insufficient time.
 ## How to run the tests (UI, API or Performance Test)
 1. Clone the repository to your local
 2. Install Cypress and run the command inside the repository on your terminal:<br>
